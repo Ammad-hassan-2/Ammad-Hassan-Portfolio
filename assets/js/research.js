@@ -4,12 +4,13 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
-    title: "A Batch Normalized Inference Network Keeps the KL Vanishing Away",
+    title: "An Enhanced Hybrid Diagnostic Deep Learning Framework using Ensemble Vit-ResNets for Oral Carcinoma Detection",
     authors:
-      "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu",
+      "Ammad Hassan, Glen Shaji, F. Mohammed, Sai Konkimalla",
     conferences:
-      "The 58th Annual Meeting of the Association for Computational Linguistics",
-    researchYr: 2020,
+      "Seminar on Molecular Imaging Techniques, Mini-fellowship Program, Stanford Medicine(Best Research Award), International Young Researcher's Conference (IYRC) at Vagelos College of Physicians and Surgeons, Columbia University, Case Study Presentations at Harvard VISION Global Health & Leadership Conference, 5th Annual MehtA+ Machine Learning Conference In the process of publishing in the Columbia Junior Science Journal."
+",
+    researchYr: 2024,
     citebox: "popup1",
     image: "assets/images/research-page/inteferenceNetwork.png",
     citation: {
