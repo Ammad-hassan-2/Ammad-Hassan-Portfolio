@@ -12,13 +12,29 @@ const research = [
 ",
     researchYr: 2024,
     citebox: "popup1",
-    image: "assets/images/research-page/inteferenceNetwork.png",
+    image: "assets/images/research-page/paper.png",
     citation: {
       vancouver:
         "Ammad Hassan, Glen Shaji, F. Mohammed, Sai Konkimalla. An Enhanced Hybrid Diagnostic Deep Learning Framework using Ensemble Vit-ResNets for Oral Carcinoma Detection. Seminar on Molecular Imaging Techniques, Stanford Medicine. IYRC, Columbia. Harvard VISION Global Health Conference",
     },
     abstract:
-      "This is currently left empty and this can be considered as a dummy data 1",
+      "Oral cancer detection can be approached using two distinct methods: a fast ‘System-1’ approach
+that directly applies diagnostic models without extensive data processing, and a slower ‘System2’ approach that involves a detailed analysis. While System-2 approaches generally offer greater
+accuracy, they are often computationally expensive and may not be feasible with limited datasets or
+resources. Moreover, relying solely on either System-1 or System-2 methods overlooks the specific
+needs and constraints of different diagnostic scenarios. To address these challenges, we propose
+the Hybrid Meta-Diagnostic Framework, which balances between System-1 and System-2 methods
+to enhance oral carcinoma detection. This framework includes: (i) fine-tuning pre-trained Vision
+Transformer and Swin Transformer models on images, (ii) fine-tuning pre-trained ResNet-18 and
+MobileNETV2 models on images, (iii) using evaluation metrics to identify the best transformer and
+CNN architectures, and (iv) ensembling these models using the soft voting technique to combine
+predictions. The system dynamically combines these methods based on the complexity of the
+diagnostic task, optimizing performance and resource use. We fine-tuned and ensembled the models
+on a single dataset, requiring only standard pre-processing and fine-tuning techniques. Experimental
+results show that our Hybrid Diagnostic Framework outperforms traditional single-model approaches,
+demonstrating key advantages: (1) adaptability by balancing between fast and detailed analyses, (2)
+integration of diverse model architectures for improved diagnostic accuracy, and (3) robustness in
+handling small, resource-limited datasets.",
     absbox: "absPopup1",
   },
 
