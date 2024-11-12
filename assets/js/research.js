@@ -15,7 +15,7 @@ const research = [
     image: "assets/images/research-page/inteferenceNetwork.png",
     citation: {
       vancouver:
-        "Qile Zhu, Wei Bi, Xiaojiang Liu, Xiyao Ma, Xiaolin Li and Dapeng Wu. A Batch Normalized Inference Network Keeps the KL Vanishing Away. The 58th Annual Meeting of the Association for Computational Linguistics 2020.",
+        "Ammad Hassan, Glen Shaji, F. Mohammed, Sai Konkimalla. An Enhanced Hybrid Diagnostic Deep Learning Framework using Ensemble Vit-ResNets for Oral Carcinoma Detection. Seminar on Molecular Imaging Techniques, Stanford Medicine. IYRC, Columbia. Harvard VISION Global Health Conference",
     },
     abstract:
       "This is currently left empty and this can be considered as a dummy data 1",
