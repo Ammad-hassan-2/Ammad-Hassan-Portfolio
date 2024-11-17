@@ -5,11 +5,11 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Molecular Imaging Mini-fellow, Member Artificial Intelligence in Medical Imaging Programs",
+    cardImage: "assets/images/experience-page/Stanford Medicine.png",
+    place: "Center of Innovation in In Vivo Imaging, Stanford University",
+    time: "(May - Sep, 2024)",
+    desp: "<li>The first Pakistani to get his accepted his proposal accepted into the Stanford Mini-fellowship program as a High School student among fellow Undergraduate and Gradutae students from 18 countries.</li>Completed three rigorous training modules on Molecular Imaging and technologies; Optical luminescent imaging cellular and preclinical applications; Clinical and AI/Deep Learning applications. <li>Presented my breakthrough in Oral Cancer Diagnostics on the International Seminar of Medical Imaging Techniques, Stanford Medicine.</li> <li>Won the Best Research Award and grant to utilize Coral Accerelator devices to scale accessible Diagnostics in under-privilleged areas on my country.</li>",
   },
   {
     title: "Student Developer",
