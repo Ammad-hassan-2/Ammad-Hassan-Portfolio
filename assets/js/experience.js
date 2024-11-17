@@ -5,7 +5,7 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Molecular Imaging Mini-fellow, Member Artificial Intelligence in Medical Imaging Programs",
+    title: "Molecular Imaging Mini-fellow",
     cardImage: "assets/images/experience-page/Stanford Medicine.png",
     place: "Center of Innovation in In Vivo Imaging, Stanford University",
     time: "(May - Sep, 2024)",
