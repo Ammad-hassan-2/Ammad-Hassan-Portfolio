@@ -12,11 +12,11 @@ const exp = [
     desp: "<li>The first Pakistani to get his accepted his proposal accepted into the Stanford Mini-fellowship program as a High School student among fellow Undergraduate and Gradutae students from 18 countries.</li>Completed three rigorous training modules on Molecular Imaging and technologies; Optical luminescent imaging cellular and preclinical applications; Clinical and AI/Deep Learning applications. <li>Presented my breakthrough in Oral Cancer Diagnostics on the International Seminar of Medical Imaging Techniques, Stanford Medicine.</li> <li>Won the Best Research Award and grant to utilize Coral Accerelator devices to scale accessible Diagnostics in under-privilleged areas on my country.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "IBM Quantum Challenge and Qiskit Global Summer School",
+    cardImage: "assets/images/experience-page/QGSS.png",
+    place: "IBM Quantum Platform",
+    time: "(Mar - July, 2024)",
+    desp: "<li>Successfully completed and won Insignia for the IBM Quantum Challenge on Qiskit for Quantum Computing.</li><li>Created unique solutions for 7 graded labs on the most-pressing utility scale Quantum Computing errors like Quantum Noice Modelliung and Error Mitigation.</li><li>Attended the Qiskit Global Summer School as a continum of the Quantum Challenge. Met and learn from IBM's Quantum Engineers and Interns.</li>",
   },
   {
     title: "Research Intern",
