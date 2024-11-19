@@ -149,11 +149,11 @@ const mentor = [
     href: "https://drive.google.com/file/d/154jG3oaosYXodGaX7ubvXp4qBo2nwMGg/view?usp=sharing",
   },
   {
-    title: "PitchTeen",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/pitchteen.png",
-    desp: "PitchTeen 2.0 was a tech startup competition for female and non-binary communities in high school and college from all over the world with an aim to create a safe and encouraging place for women to help them explore tech and business fields.",
-    href: "https://www.linkedin.com/company/pitchteen/about/",
+    title: "Valedictorian",
+    subtitle: "Cadet College Hasanabdal",
+    image: "assets/images/experience-page/CCHpic.png",
+    desp: "Won the highest academic honor, Catchpole Scholar, by placing first in my cohort for both Grade 11 and Grade 12.",
+    href: "cch.edu.pk",
   },
   {
     title: "Hack-A-Solution",
