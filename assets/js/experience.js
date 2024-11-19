@@ -140,11 +140,11 @@ const mentor = [
     href: "https://wafflehacks.org/",
   },
   {
-    title: "Elevate Tech",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/elevate.png",
-    desp: "Elevate Hacks is an upcoming all-female virtual hackathon coming from AUGUST 14th to 15th.",
-    href: "https://elevatetech.codes/",
+    title: "Insignia of Quantum Excellence",
+    subtitle: "IBM Quantum Platform",
+    image: "assets/images/experience-page/Screenshot 2024-11-19 231803.png",
+    desp: "One of the only participants of the IBM Quantum Challenge on Qiskit, this year, to complete all the challenging problems and correct grading of all the labs of Quantum Computation.",
+    href: "https://drive.google.com/file/d/154jG3oaosYXodGaX7ubvXp4qBo2nwMGg/view?usp=sharing",
   },
   {
     title: "PitchTeen",
