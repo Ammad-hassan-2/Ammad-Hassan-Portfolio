@@ -151,7 +151,7 @@ const mentor = [
   {
     title: "Valedictorian",
     subtitle: "Cadet College Hasanabdal",
-    image: "assets/images/experience-page/CCHpic.png",
+    image: "assets/images/experience-page/newcch.png",
     desp: "Won the highest academic honor, Catchpole Scholar, by placing first in my cohort for both Grade 11 and Grade 12.",
     href: "cch.edu.pk",
   },
@@ -163,10 +163,10 @@ const mentor = [
     href: "https://hackasolution.devpost.com/",
   },
   {
-    title: "Duke of Edinburg's Award",
-    image: "assets/images/experience-page/uniglobe.png",
-    desp: "UniGlobe Hacks 2.0 is an upcoming 4-day long hackathon run by high school students held during 28-31 July 2021.",
-    href: "https://uniglobe-hacks.devpost.com/",
+    title: "Duke of Edinburgh's Award",
+    image: "assets/images/experience-page/DofE.png",
+    desp: "Completed the Community Service, Leadership and Adventure Trips requirements to earn the Duke of Edinburgh's Award.",
+    href: "https://www.dofe.org/",
   },
   {
     title: "AtlasHacks",
@@ -189,41 +189,7 @@ const mentor = [
     desp: "InspireEd Hacks is a nationwide initiative organized by the student-for-student nonprofit, Mission InspirEd, challenging students ages 10-18 to synthesize their creativity and coding experience into a product beneficial to the educational community.",
     href: "https://www.missioninspired.org/hackathon",
   },
-  {
-    title: "Hack3",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/hack3.png",
-    desp: "Hack3 2021 is an upcoming global online hackathon that aims to enable high school students to learn computer science, with a broader message of (everyone can code) targeting underrepresented demographics to improve diversity and inclusion of individuals in the computer technology space.",
-    href: "https://hack3.co/",
-  },
-  {
-    title: "JITHack",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/jithack.png",
-    desp: "JITHack is an upcoming virtual design and development hackathon organized by the students of Jyothy Institute of Technology, Bengaluru on June 26, 2021, where participants have 24 hours to build something incredible.",
-    href: "https://jithack.netlify.app/",
-  },
-  {
-    title: "Recess Hacks",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/recess.png",
-    desp: "Recess Hacks is an upcoming hackathon for high school students in the Greater Toronto Area that strives to encourage innovation among high school students and get involved in technology.",
-    href: "https://recesshacks.com/",
-  },
-  {
-    title: "Citro Tech",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/citro.png",
-    desp: "Citro Hacks 2021 is an upcoming all-inclusive online hackathon organized by Citro Tech, a student led organization dedicated to empowering minorities in the tech field</li>",
-    href: "https://citro.tech/",
-  },
-  {
-    title: "NHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/nhacks.png",
-    desp: "NHacks VI was a hackathon that aimed to encourage students everywhere to develop skills in computer science by creating tangible products that they're proud of. It initially started as Michigan's largest high school hackathon.",
-    href: "https://nhacks-vi.devpost.com/",
-  },
+
 ];
 
 const showCards3 = () => {
