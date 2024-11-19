@@ -119,11 +119,11 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "The Uplift Project",
-    subtitle: "Mentor",
-    image: "assets/images/experience-page/uplift.png",
-    desp: "I would be responsible for guiding 100s of participants across the globe in their first steps towards Applied Data Science and building end-to-end machine learning projects.",
-    href: "https://uplift.girlscript.tech/",
+    title: "Best Research and Presentation",
+    subtitle: "Project Award and Grant",
+    image: "assets/images/experience-page/Stanford.jpg",
+    desp: "My project on implementing a novel, ensemble approach for ViT-ResNets in Oral Carcinoma Diagnostics won the Best Research Award at the Interantional Conference of Medical Imaging Techniques, Stanford University.",
+    href: "https://drive.google.com/file/d/1S9dwXKXm0VUiBaOoJA20XhBY3pFyseDa/view?usp=drive_link",
   },
   {
     title: "ULHacks",
