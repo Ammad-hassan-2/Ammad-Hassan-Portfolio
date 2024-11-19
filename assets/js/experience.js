@@ -70,7 +70,7 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Team Lead, Pulse AI",
+    title: "Team Lead, Pulse AI @ Junior Academy",
     subtitle: "Junior Academy, New York Academy of Sciences",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
@@ -84,17 +84,25 @@ const volunteershipcards = [
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
   {
-    title: "Member, IYRC STEM Research ",
+    title: "Member",
+    subtitle: "IYRC STEM Research ",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
       "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
   },
   {
-    title: "Vice-President, Futuristics System Society",
+    title: "Vice-President",
+    subtitle: "Futuristics System Society",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "AI-astronautics & vertical farming AI; lauded by Punjab Gov; created quantum computing course; guided team in IBM Quantum Challenge.",
   },
+  {
+    title: "Computer Science Program Core-Member",
+    subtile: "Google Mentorship Program",
+    cardImage: "",
+    description:
+      "After my work on OpenCV, I was selected as a core-member of the Mentorship Program offered by Google's Augmented Reality Department."
 ];
 
 const showCards = () => {
@@ -155,6 +163,14 @@ const mentor = [
     desp: "Won the highest academic honor, Catchpole Scholar, by placing first in my cohort for both Grade 11 and Grade 12.",
     href: "cch.edu.pk",
   },
+    {
+    title: "Head Boy",
+    subtitle: "AQK School of Science and Technology",
+    image: "assets/images/experience-page/aka.png",
+    desp: "On the basis of my academic, co-curricular and leadership achievements such as the Secondary School Academic Distinction, Best in Discipline and Turn-out Award amd Best Skit Performer Award, I was appointed as the Headboy of the school.",
+    href: "https://aqksafari1.edu.pk/",
+  },
+
   {
     title: "High Achiever Award",
     subtitle: "EducationUSA",
@@ -169,25 +185,18 @@ const mentor = [
     href: "https://www.dofe.org/",
   },
   {
-    title: "AtlasHacks",
-    subtitle: "Mentor",
+    title: "Captain Cricket Team",
+    subtitle: "WICA International Cricket Academy, Cadet College Hasanabdal",
     image: "assets/images/experience-page/atlas.png",
-    desp: "AtlasHacks II is a 3-day virtual hackathon that aims to foster creativity within hackers all around the world.",
-    href: "https://atlashacks2.devpost.com/",
+    desp: "Aorld.",
+    href: "cch.edu.pk",
   },
   {
-    title: "NeoHacks",
+    title: "Community Service - Project Leader",
     subtitle: "Judge",
     image: "assets/images/experience-page/neo.png",
     desp: "NeoHacks is an upcoming 48-hour hackathon taking place July 23-25, 2021 where hundreds of students from around the world will come together virtually to learn new skills, meet new friends, and build awesome projects. We provide beginner-friendly workshops, mentorship, fun games, and more.",
     href: "https://neohacks.org/",
-  },
-  {
-    title: "Mission Inspired",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/mission.png",
-    desp: "InspireEd Hacks is a nationwide initiative organized by the student-for-student nonprofit, Mission InspirEd, challenging students ages 10-18 to synthesize their creativity and coding experience into a product beneficial to the educational community.",
-    href: "https://www.missioninspired.org/hackathon",
   },
 
 ];
