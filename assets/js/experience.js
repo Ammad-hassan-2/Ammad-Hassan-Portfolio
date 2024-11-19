@@ -104,7 +104,7 @@ const showCards = () => {
       (output += `        
       <div class="card volunteerCard" data-aos="fade-down" data-aos-easing="linear" data-aos-delay="100" data-aos-duration="600" style="height: 550px;width:400px">
       
-      <img src="${cardImage}" height="250" width="65" class="card-img" style="border-radius:10px">
+      <img src="${cardImage}" height="250" width="105" class="card-img" style="border-radius:10px">
       <div class="content">
           <h2 class="volunteerTitle">${title}</h2><br>
           <p class="copy">${description}</p></div>
@@ -156,15 +156,14 @@ const mentor = [
     href: "cch.edu.pk",
   },
   {
-    title: "Hack-A-Solution",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/hackasolution.png",
-    desp: "Hack-a-Solution 2021 is a 24 hour long hackathon organized by Frisco students to raise awareness of world issues through technology.",
+    title: "High Achiever Award",
+    subtitle: "EducationUSA",
+    image: "assets/images/experience-page/USEFP",
+    desp: "Won the United States Education Foundation in Pakistan's High Achiever Award at the International Education Week, 2024.",
     href: "https://hackasolution.devpost.com/",
   },
   {
-    title: "UniGlobe Hacks",
-    subtitle: "Judge",
+    title: "Duke of Edinburg's Award",
     image: "assets/images/experience-page/uniglobe.png",
     desp: "UniGlobe Hacks 2.0 is an upcoming 4-day long hackathon run by high school students held during 28-31 July 2021.",
     href: "https://uniglobe-hacks.devpost.com/",
