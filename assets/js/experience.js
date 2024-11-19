@@ -133,11 +133,11 @@ const mentor = [
     href: "https://www.logicolympiad.org/",
   },
   {
-    title: "WaffleHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/wafflehacks.png",
-    desp: "WaffleHacks 2021 is an upcoming 48-hour student-organized hackathon with an aim to bring technical solutions to local communities and small businesses.",
-    href: "https://wafflehacks.org/",
+    title: "Academic Distinction and Merit Scholarship",
+    subtitle: "Federal Board of Education",
+    image: "assets/images/experience-page/fbise.png",
+    desp: "Ranked 41 out of 101,370 students natioanlly in Grade 10. Ranked 4th in Grade 12 High School Leaving Examinations. Won President's Medal and Merit Scholarship of PKR. 300,000, collectively by the School and Board.",
+    href: "https://fbise.edu.pk/scholarships/2022/Merit_Scholarship_List_SSC_Annual_Exams_(1st_and_2nd)_2022.pdf",
   },
   {
     title: "Insignia of Quantum Excellence",
