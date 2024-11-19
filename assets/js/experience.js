@@ -28,9 +28,9 @@ const exp = [
   {
     title: "Artificial Intelligence in Healthcare - Health Techopreneurship",
     cardImage: "assets/images/experience-page/NIC collage.png",
-    place: "National Incubation Center of Pakistan",
+    place: "Founders' Institue, National Incubation Center of Pakistan",
     time: "(Dec, 2023  - Present)",
-    desp: "<li>ksha.</li><li> hoice.</li>",
+    desp: "<li>Under the FI, or the Founders' Institute, I'm part of the Idea-Review Sessions which enable me to refine my Healh Tech Initative, PulseAI.</li><li> Through constant efforts and close-up watching industry leading entrepreneurs pitching their ideas to Angel Investors and Venture Capitalists, I learnt not only the tech and non-tech skills but also the importance of deep work and resilience and the ability to remain in the Blue Oceans of Entreprenuership.</li>",
   },
   
 ];
