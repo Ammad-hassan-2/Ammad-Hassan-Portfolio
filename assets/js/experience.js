@@ -70,25 +70,27 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
+    title: "Team Lead, Pulse AI",
+    subtitle: "Junior Academy, New York Academy of Sciences",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
   {
-    title: "StudentCode-in 2020",
+    title: "Founding President, Quantum Computing and AI Society",
+    subtitle: "Beaconhouse School",
     cardImage: "assets/images/experience-page/2.jpg",
     description:
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
   {
-    title: "PClub Summer Of Code 2020",
+    title: "Member, IYRC STEM Research ",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
       "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
   },
   {
-    title: "Hakin-Codes",
+    title: "Vice-President, Futuristics System Society",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
       "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
