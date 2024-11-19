@@ -12,6 +12,13 @@ const exp = [
     desp: "<li>The first Pakistani to get his proposal accepted for Stanford's Mini-fellowship program as a High School student among fellow Undergraduate and Graduate students from different 18 countries.</li>Completed three rigorous training modules on Molecular Imaging and technologies; Optical luminescent imaging cellular and preclinical applications; Clinical and AI/Deep Learning applications. <li>Presented my breakthrough in Oral Cancer Diagnostics on the International Seminar of Medical Imaging Techniques, Stanford Medicine.</li> <li>Won the Best Research Award and grant to utilize Coral Accerelator devices to scale accessible Diagnostics in under-privilleged areas of my country and the World.</li>",
   },
   {
+    title: "Member",
+    cardImage: "assets/images/experience-page/Stanford AIMI.png",
+    place: "Center of Artificial Intelligence in Medicine & Imaging",
+    time: "(Nov, 2024 - Present)",
+    desp: "<li>a.</li><li>Dc.</li>",
+  },
+  {
     title: "IBM Quantum Challenge and Qiskit Global Summer School",
     cardImage: "assets/images/experience-page/QGSS.png",
     place: "IBM Quantum Platform",
@@ -25,13 +32,7 @@ const exp = [
     time: "(Dec, 2023  - Present)",
     desp: "<li>ksha.</li><li> hoice.</li>",
   },
-  {
-    title: "Member",
-    cardImage: "assets/images/experience-page/Stanford AIMI.png",
-    place: "Center of Artificial Intelligence in Medicine & Imaging",
-    time: "(Nov, 2024 - Present)",
-    desp: "<li>a.</li><li>Dc.</li>",
-  },
+  
 ];
 
 const showCards2 = () => {
