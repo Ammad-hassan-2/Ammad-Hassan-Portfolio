@@ -144,7 +144,7 @@ const mentor = [
   {
     title: "Insignia of Quantum Excellence",
     subtitle: "IBM Quantum Platform",
-    image: "assets/images/experience-page/Screenshot 2024-11-19 231803.png",
+    image: "assets/images/experience-page/IBM.png",
     desp: "One of the only participants of the IBM Quantum Challenge on Qiskit, this year, to complete all the challenging problems and correct grading of all the labs of Quantum Computation.",
     href: "https://drive.google.com/file/d/154jG3oaosYXodGaX7ubvXp4qBo2nwMGg/view?usp=sharing",
   },
