@@ -126,11 +126,11 @@ const mentor = [
     href: "https://drive.google.com/file/d/1S9dwXKXm0VUiBaOoJA20XhBY3pFyseDa/view?usp=drive_link",
   },
   {
-    title: "ULHacks",
-    subtitle: "Judge",
-    image: "assets/images/experience-page/ulhacks.png",
-    desp: "ULHacks is a 36 hour long hackathon organized with an aim to enable students to create a project which empowers learning.",
-    href: "https://ulhacks.com/",
+    title: "Honorable Mention",
+    subtitle: "International Logic Olympiad",
+    image: "assets/images/experience-page/ILO.png",
+    desp: "Represented my country at the International Logic Olympiad and trained with team of 20 students. I was one of top 2 performers nationally and got Honorable Mention Award, Internatioanlly. During this competition, I developed new solving techniques for fitch logic in CS, Math",
+    href: "https://www.logicolympiad.org/",
   },
   {
     title: "WaffleHacks",
