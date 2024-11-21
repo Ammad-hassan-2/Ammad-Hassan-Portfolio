@@ -5,25 +5,32 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Intern",
-    cardImage: "assets/images/experience-page/flipkart.jpg",
-    place: "Flipkart",
-    time: "(May, 2020 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    title: "Molecular Imaging Mini-fellow",
+    cardImage: "assets/images/experience-page/Stanford Medicine.png",
+    place: "Center of Innovation in In Vivo Imaging, Stanford University",
+    time: "(May - Sep, 2024)",
+    desp: "<li>The first Pakistani to get his proposal accepted for Stanford's Mini-fellowship program as a High School student among fellow Undergraduate and Graduate students from different 18 countries.</li><li>Completed three rigorous training modules on Molecular Imaging and technologies; Optical luminescent imaging cellular and preclinical applications; Clinical and AI/Deep Learning applications.</li><li>Presented my breakthrough in Oral Cancer Diagnostics on the International Seminar of Medical Imaging Techniques, Stanford Medicine.</li><li>Won the Best Research Award and grant to utilize Coral Accelerator devices to scale accessible Diagnostics in under-privileged areas of my country and the World.</li><li>After the successful deployment of this app, I'm currently working on utilizing these coral accelerators in the area of three main foci of cancer prediction/prognosis: a) the prediction of cancer susceptibility (i.e., risk assessment); b) the prediction of cancer recurrence; and c) the prediction of cancer survivability.</li>",
   },
   {
-    title: "Student Developer",
-    cardImage: "assets/images/experience-page/gsoc.png",
-    place: "Google Summer Of Code",
-    time: "(Mar - Aug, 2019)",
-    desp: "<li>Worked with MOZILLA as a part of Google Summer Of Code.</li><li>Worked on Extension Activity Monitor which is a privileged extension for Firefox that uses the activityLog API (privileged API) to monitor the activities of the other installed extensions.</li><li>The activityLog API listens for logs from other installed extensions.</li>",
+    title: "Member, AIMI NextGen Tech Talks",
+    cardImage: "assets/images/experience-page/Screenshot 2024-11-19 114219.png",
+    place: "Center of Artificial Intelligence in Medicine & Imaging",
+    time: "(Nov, 2024 - Present)",
+    desp: "<li>Participated in the AIMI Symposium and NextGen Tech Talks featuring experts such as Dr. Jonathan Chen, Dr. Jessica Maga, and the Chief Data Scientist at Stanford Healthcare, Dr. Nigam Shah.</li><li>The most important thing I've learned from this program is the importance of the timeline in the collection of Medical Data to train Diagnostic Models and create algorithms. This directly informed my project on a highly accurate computer vision architecture for diagnosing oral carcinoma with a focus on low-resource healthcare environments, as I analyzed and took into account several of the very nuanced underlying factors in Data Collection.</li><li>Specific case studies presented during the talks allowed me to learn more about Adapt Explainability Techniques, the type of innovation of AIMI in combining imaging and EHR data, which suggests the value of leveraging additional clinical data to enhance model performance; and the focus on a scalability-inspired approach in my dataset preparation and model training strategies.</li>",
   },
   {
-    title: "Research Intern",
-    cardImage: "assets/images/experience-page/IIT_Bombay.jpg",
-    place: "IIT, Bombay",
-    time: "(Dec, 19 - Jan, 20)",
-    desp: "<li>Worked on the project “LTI (Learning Tools Interoperability) 2.0 standards Implementation for ekShiksha.</li><li>Designed a software that would help faculty to create a quiz using the questions from the database based on his/her choice of topics and he should be provided with various facilities and options to create a quiz of his choice.</li>",
+    title: "IBM Quantum Challenge and Qiskit Global Summer School",
+    cardImage: "assets/images/experience-page/QGSS.png",
+    place: "IBM Quantum Platform",
+    time: "(Mar - July, 2024)",
+    desp: "<li>Successfully completed and won Insignia for the IBM Quantum Challenge on Qiskit for Quantum Computing.</li><li>Created unique solutions for 7 graded labs on the most-pressing utility-scale Quantum Computing problems like Quantum Noise Modeling and Error Mitigation.</li><li>Attended the Qiskit Global Summer School as a continuum of the Quantum Challenge, and got the opportunity to meet with IBM's Quantum Engineers and Interns.</li><li>Worked on the highly effective Quantum Computation libraries in Qiskit programming language such as Qiskit Terra for the creation, execution, and optimization of foundational quantum circuits and algorithms, and Qiskit AER high-end simulator for testing and debugging noise-affected quantum simulations. Currently, I'm working on Qiskit Machine Learning featuring QGANs and parameterized Quantum circuits (PQC) to seamlessly integrate TensorFlow Lite and PyTorch for Quantum-enhanced data classification, regression, and generative models, and possibly enhance my Cancer Diagnostic Deep Learning Framework of ResNet-ViT Ensemble.</li>",
+  },
+  {
+    title: "Artificial Intelligence in Healthcare - Health Techopreneurship",
+    cardImage: "assets/images/experience-page/NIC collage.png",
+    place: "Founders' Institute, National Incubation Center of Pakistan",
+    time: "(Dec, 2023 - Present)",
+    desp: "<li>Under the FI, or the Founders' Institute, I'm part of the Idea-Review Sessions which enable me to refine my Health Tech Initiative, PulseAI.</li><li>Through constant efforts and close-up watching of industry-leading entrepreneurs pitching their ideas to Angel Investors and Venture Capitalists, I learned not only the tech and non-tech skills but also the importance of deep work, resilience, and the ability to remain in the Blue Oceans of Entrepreneurship.</li>",
   },
 ];
 
@@ -62,28 +69,39 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
+    title: "Team Lead, Pulse AI @ Junior Academy",
+    subtitle: "Junior Academy, New York Academy of Sciences",
     cardImage: "assets/images/experience-page/1.jpg",
     description:
       "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
   },
-  {
-    title: "StudentCode-in 2020",
+   {
+    title: "Founding President, Quantum Computing and AI Society",
+    subtitle: "Beaconhouse School",
     cardImage: "assets/images/experience-page/2.jpg",
     description:
-      "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
+      "Responsible for handling open-source contributions for the project Awesome Developer Portfolio.",
   },
   {
-    title: "PClub Summer Of Code 2020",
+    title: "Member",
+    subtitle: "IYRC STEM Research",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
-      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume and Doc2pen.",
+      "Mentoring for the projects Deep Pixel, AutoVaidya, Just Resume, and Doc2pen.",
   },
   {
-    title: "Hakin-Codes",
+    title: "Vice-President",
+    subtitle: "Futuristics System Society",
     cardImage: "assets/images/experience-page/4.jpg",
     description:
-      "Mentoring for the open source projects Deeppixel, Awesome Developer Portfolios and Doc2Pen.",
+      "AI-astronautics & vertical farming AI; lauded by Punjab Gov; created quantum computing course; guided team in IBM Quantum Challenge.",
+  },
+  {
+    title: "Computer Science Program Core-Member",
+    subtitle: "Google Mentorship Program",
+    cardImage: "",
+    description:
+      "After my work on OpenCV, I was selected as a core-member of the Mentorship Program offered by Google's Augmented Reality Department.",
   },
 ];
 
