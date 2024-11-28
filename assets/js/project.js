@@ -6,9 +6,9 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Quiz App",
+    title: "Advanced Multimodal Chatbot using RAG and LLava Implementation",
     cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz app built using basic react.",
+    description: "ChatGPT-like interaction: Chatbot can act as a normal AI assistant. RAG (Retrieval Augmented Generation) capabilities. Other features include Image generation and understanding; DuckDuckGo integration; Text Summarization; Text and voice interaction and command options;.  Memory for Reinforcement Learning of the framework.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
     Githublink: "",
